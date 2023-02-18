@@ -15,7 +15,7 @@ https://github.com/stevenha75/CarbonLLC/deployments/activity_log?environment=git
 Before you begin, ensure you have met the following requirements:
   - [Git](https://git-scm.com/downloads) must be installed on your operating system.
 
-## Installing KickProxies
+## Installing CarbonLLC
 1. Clone the repository to your local machine w/ the following command:\
 Linux and macOS:\
 ```sudo git clone https://github.com/stevenha75/CarbonLLC.git```\
