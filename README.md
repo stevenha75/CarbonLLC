@@ -1,5 +1,5 @@
 # CarbonLLC Website - Webdev/Design service
-Website of a discontinued business that I played a part in. CarbonLLC was active from 2019-2020 and focused on freelance web development and design. We worked on frontend and backend as well as UI/UX. Notable clients: https://kicks.gg/ (acquired by https://notify.org/), DropsSupreme (rebranded into https://drops.gg/),  https://tristatehype.io/, and more.
+CarbonLLC was active from 2019-2020 and focused on freelance web development and design. We worked on frontend and backend as well as UI/UX. Notable clients: Kicks.gg (acquired by Notify.org), DropsSupreme (rebranded to Drops.gg), Tristate Hype (https://tristatehype.io/), KickProxies (https://stevenha75.github.io/kickproxies/), and many others.
 
 ## Live Demo
 https://github.com/stevenha75/CarbonLLC/deployments/activity_log?environment=github-pages
